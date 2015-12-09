@@ -1,0 +1,9 @@
+{
+  "name": "ryaan-anthony/magento-cached-topmenu",
+  "description": "cache the top navigation menu once for all requests when page cache is enabled",
+  "homepage": "https://github.com/ryaan-anthony/magento-cached-topmenu",
+  "type": "magento-module",
+  "require": {
+    "php": ">=5.4"
+  }
+}
